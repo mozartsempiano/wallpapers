@@ -22,7 +22,7 @@ def categorical_wallpapers(exclude: str | list[str] = []) -> dict[str, list[Path
     
     return {
         category: [
-            Path(category) / picture for picture in listdir(category) 
+            Path(picture) for picture in listdir(category) 
             if picture != "README.md" and Path(picture).suffix.lower() in valid_extensions
         ]
         for category in listdir(".")
@@ -103,7 +103,7 @@ def handle_body(_, string: str, config: dict[str, str]) -> str:
         merged = {"category": category} | config
         results.append(f"## {category}{spacing}")
         for picture in pictures:
-            merged["random"] = str(picture)
+            merged["random"] = (Path(category) / picture).as_posix()
             merged["random_stem"] = picture.stem
             results.append(string.format(**merged))
         results.append(f"[Browse]({category}/README.md){spacing}")
