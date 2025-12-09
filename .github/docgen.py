@@ -16,6 +16,46 @@ def get_config(config_path: Path = Path("./.github/config.ini")) -> dict[str, st
     return dict(parser.defaults())
 
 
+def rename_files_with_spaces(exclude: str | list[str] = []) -> None:
+    """Rename all image files: normalize spaces, hyphens, and convert to lowercase."""
+    exclude = exclude.split(":") if type(exclude) is str else exclude
+    valid_extensions = {'.jpg', '.jpeg', '.png'}
+    renamed_count = 0
+    
+    for category in listdir("."):
+        if category.startswith(".") or isfile(category) or category in exclude:
+            continue
+            
+        for filename in listdir(category):
+            if filename == "README.md":
+                continue
+                
+            if Path(filename).suffix.lower() not in valid_extensions:
+                continue
+            
+            # Build normalized filename
+            new_filename = filename
+            # First normalize " - " and "_-_" to "-"
+            new_filename = new_filename.replace(" - ", "-").replace("_-_", "-")
+            # Then replace remaining spaces with underscores
+            new_filename = new_filename.replace(" ", "_")
+            # Convert to lowercase
+            new_filename = new_filename.lower()
+            
+            if new_filename != filename:
+                old_path = Path(category) / filename
+                new_path = Path(category) / new_filename
+                
+                old_path.rename(new_path)
+                print(f"Renamed: {category}/{filename} -> {new_filename}")
+                renamed_count += 1
+    
+    if renamed_count > 0:
+        print(f"\nTotal files renamed: {renamed_count}")
+    else:
+        print("No files needed renaming.")
+
+
 def categorical_wallpapers(exclude: str | list[str] = []) -> dict[str, list[Path]]:
     exclude = exclude.split(":") if type(exclude) is str else exclude
     valid_extensions = {'.jpg', '.jpeg', '.png'}
@@ -122,7 +162,7 @@ def handle_category(_, string: str, config: dict[str, str]) -> dict[str, str]:
         results[readme] = header_template.format(**header_merged)
         
         for picture in pictures:
-            merged = config | {"filepath": str(picture), "filename": picture.stem, "category": category}
+            merged = config | {"filepath": picture.as_posix(), "filename": picture.stem, "category": category}
             results[readme] = f"{results[readme]}{string.format(**merged)}{spacing}"
     return results
 
@@ -130,6 +170,11 @@ def handle_category(_, string: str, config: dict[str, str]) -> dict[str, str]:
 if __name__ == "__main__":
     CONFIG = get_config()
     CONFIG["date"] = datetime.now().strftime("%Y-%m-%d")
+    
+    # Rename files with spaces to underscores before generating docs
+    print("Checking for files with spaces in names...")
+    rename_files_with_spaces(CONFIG["exclude"])
+    print()
     
     primed = prime_templates(CONFIG, {"body.category.md": handle_body, "category.md": handle_category})
     full_templates = ["heading", "body.heading", "body.category", "sources"]
