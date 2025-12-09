@@ -6,138 +6,120 @@ This is a personal collection of wallpapers organized by categories for easy acc
 
 [![Download](https://img.shields.io/badge/Download-All-brightgreen)](https://download-directory.github.io/?url=https://github.com/mozartsempiano/wallpapers)
 [![Source](https://img.shields.io/badge/Generated%20by-docgen.py-blue)](https://github.com/mozartsempiano/wallpapers/blob/main/.github/docgen.py)
-
 ## Random Selection
 
 Random wallpapers from each category are displayed below. The selection changes automatically to show different items from the collection.
-
-## cyberpunk
-
-### wallhaven-g73eqq_1920x1080
-
-![wallhaven-g73eqq_1920x1080](cyberpunk/wallhaven-g73eqq_1920x1080.png)
-
-[Download](https://download-directory.github.io/?url=https://github.com/mozartsempiano/wallpapers/tree/main/cyberpunk&filename=wallhaven-g73eqq_1920x1080.png)
-
-### lucy-cyberpunk-edgerunners-art-hd-wallpaper-uhdpaper.com-590@1@i
-
-![lucy-cyberpunk-edgerunners-art-hd-wallpaper-uhdpaper.com-590@1@i](cyberpunk/lucy-cyberpunk-edgerunners-art-hd-wallpaper-uhdpaper.com-590@1@i.jpg)
-
-[Download](https://download-directory.github.io/?url=https://github.com/mozartsempiano/wallpapers/tree/main/cyberpunk&filename=lucy-cyberpunk-edgerunners-art-hd-wallpaper-uhdpaper.com-590@1@i.jpg)
-
-[Browse](../cyberpunk/README.md)
-
-## evangelion
-
-### 849213
-
-![849213](evangelion/849213.png)
-
-[Download](https://download-directory.github.io/?url=https://github.com/mozartsempiano/wallpapers/tree/main/evangelion&filename=849213.png)
-
-### asuka-langley-soryu-evangelion-uhdpaper.com-4K-6.1604
-
-![asuka-langley-soryu-evangelion-uhdpaper.com-4K-6.1604](evangelion/asuka-langley-soryu-evangelion-uhdpaper.com-4K-6.1604.jpg)
-
-[Download](https://download-directory.github.io/?url=https://github.com/mozartsempiano/wallpapers/tree/main/evangelion&filename=asuka-langley-soryu-evangelion-uhdpaper.com-4K-6.1604.jpg)
-
-[Browse](../evangelion/README.md)
-
-## flcl
-
-### 834420
-
-![834420](flcl/834420.png)
-
-[Download](https://download-directory.github.io/?url=https://github.com/mozartsempiano/wallpapers/tree/main/flcl&filename=834420.png)
-
-### wallhaven-v9devp
-
-![wallhaven-v9devp](flcl/wallhaven-v9devp.png)
-
-[Download](https://download-directory.github.io/?url=https://github.com/mozartsempiano/wallpapers/tree/main/flcl&filename=wallhaven-v9devp.png)
-
-[Browse](../flcl/README.md)
-
-## ghibli
-
-### 115
-
-![115](ghibli/115.png)
-
-[Download](https://download-directory.github.io/?url=https://github.com/mozartsempiano/wallpapers/tree/main/ghibli&filename=115.png)
-
-### 81999
-
-![81999](ghibli/81999.jpg)
-
-[Download](https://download-directory.github.io/?url=https://github.com/mozartsempiano/wallpapers/tree/main/ghibli&filename=81999.jpg)
-
-[Browse](../ghibli/README.md)
-
 ## lain
 
-### kero-wpp
+### interest - wallpaper
 
-![kero-wpp](lain/kero-wpp.png)
+![interest - wallpaper](lain/interest - wallpaper.png)
 
-[Download](https://download-directory.github.io/?url=https://github.com/mozartsempiano/wallpapers/tree/main/lain&filename=kero-wpp.png)
+[Browse](https://github.com/mozartsempiano/wallpapers/tree/main/lain)
+### flowergirl - revisit project_wallpaper
 
-### fog_of_doubt_wpp
+![flowergirl - revisit project_wallpaper](lain/flowergirl - revisit project_wallpaper.png)
 
-![fog_of_doubt_wpp](lain/fog_of_doubt_wpp.png)
-
-[Download](https://download-directory.github.io/?url=https://github.com/mozartsempiano/wallpapers/tree/main/lain&filename=fog_of_doubt_wpp.png)
-
+[Browse](https://github.com/mozartsempiano/wallpapers/tree/main/lain)
 [Browse](../lain/README.md)
 
 ## punpun
-
-### punpun
-
-![punpun](punpun/punpun.jpg)
-
-[Download](https://download-directory.github.io/?url=https://github.com/mozartsempiano/wallpapers/tree/main/punpun&filename=punpun.jpg)
 
 ### ol2oWf7
 
 ![ol2oWf7](punpun/ol2oWf7.jpg)
 
-[Download](https://download-directory.github.io/?url=https://github.com/mozartsempiano/wallpapers/tree/main/punpun&filename=ol2oWf7.jpg)
+[Browse](https://github.com/mozartsempiano/wallpapers/tree/main/punpun)
+### aiko
 
+![aiko](punpun/aiko.jpg)
+
+[Browse](https://github.com/mozartsempiano/wallpapers/tree/main/punpun)
 [Browse](../punpun/README.md)
+
+## flcl
+
+### 1600x900-1903768-flcl__3
+
+![1600x900-1903768-flcl__3](flcl/1600x900-1903768-flcl__3.jpg)
+
+[Browse](https://github.com/mozartsempiano/wallpapers/tree/main/flcl)
+### wallhaven-v9devp
+
+![wallhaven-v9devp](flcl/wallhaven-v9devp.png)
+
+[Browse](https://github.com/mozartsempiano/wallpapers/tree/main/flcl)
+[Browse](../flcl/README.md)
+
+## ghibli
+
+### 81999
+
+![81999](ghibli/81999.jpg)
+
+[Browse](https://github.com/mozartsempiano/wallpapers/tree/main/ghibli)
+### 661714
+
+![661714](ghibli/661714.jpg)
+
+[Browse](https://github.com/mozartsempiano/wallpapers/tree/main/ghibli)
+[Browse](../ghibli/README.md)
+
+## cyberpunk
+
+### wallhaven-qz99wr
+
+![wallhaven-qz99wr](cyberpunk/wallhaven-qz99wr.jpg)
+
+[Browse](https://github.com/mozartsempiano/wallpapers/tree/main/cyberpunk)
+### rebecca-cyberpunk-edgerunners-series-hd-wallpaper-uhdpaper.com-636@1@i
+
+![rebecca-cyberpunk-edgerunners-series-hd-wallpaper-uhdpaper.com-636@1@i](cyberpunk/rebecca-cyberpunk-edgerunners-series-hd-wallpaper-uhdpaper.com-636@1@i.jpg)
+
+[Browse](https://github.com/mozartsempiano/wallpapers/tree/main/cyberpunk)
+[Browse](../cyberpunk/README.md)
+
+## evangelion
+
+### 2f6e557bfc02607f0dd7aad3a7bacb9c
+
+![2f6e557bfc02607f0dd7aad3a7bacb9c](evangelion/2f6e557bfc02607f0dd7aad3a7bacb9c.jpg)
+
+[Browse](https://github.com/mozartsempiano/wallpapers/tree/main/evangelion)
+### -tue3dBwTOTxvDG8o5X5iXWhlgT4nuQE6XJ31Jr3udQ
+
+![-tue3dBwTOTxvDG8o5X5iXWhlgT4nuQE6XJ31Jr3udQ](evangelion/-tue3dBwTOTxvDG8o5X5iXWhlgT4nuQE6XJ31Jr3udQ.jpg)
+
+[Browse](https://github.com/mozartsempiano/wallpapers/tree/main/evangelion)
+[Browse](../evangelion/README.md)
+
+## unsorted
+
+### 60920
+
+![60920](unsorted/60920.jpg)
+
+[Browse](https://github.com/mozartsempiano/wallpapers/tree/main/unsorted)
+### wallhaven-lmmo3r
+
+![wallhaven-lmmo3r](unsorted/wallhaven-lmmo3r.jpg)
+
+[Browse](https://github.com/mozartsempiano/wallpapers/tree/main/unsorted)
+[Browse](../unsorted/README.md)
 
 ## sonic
 
-### wallhaven-z8kkly_1920x1080
+### Sonic Chronicles White
 
-![wallhaven-z8kkly_1920x1080](sonic/wallhaven-z8kkly_1920x1080.png)
+![Sonic Chronicles White](sonic/Sonic Chronicles White.png)
 
-[Download](https://download-directory.github.io/?url=https://github.com/mozartsempiano/wallpapers/tree/main/sonic&filename=wallhaven-z8kkly_1920x1080.png)
-
+[Browse](https://github.com/mozartsempiano/wallpapers/tree/main/sonic)
 ### Sonic Chronicles Blue
 
 ![Sonic Chronicles Blue](sonic/Sonic Chronicles Blue.png)
 
-[Download](https://download-directory.github.io/?url=https://github.com/mozartsempiano/wallpapers/tree/main/sonic&filename=Sonic Chronicles Blue.png)
-
+[Browse](https://github.com/mozartsempiano/wallpapers/tree/main/sonic)
 [Browse](../sonic/README.md)
-
-## unsorted
-
-### wallhaven-g86vve_1920x1080
-
-![wallhaven-g86vve_1920x1080](unsorted/wallhaven-g86vve_1920x1080.png)
-
-[Download](https://download-directory.github.io/?url=https://github.com/mozartsempiano/wallpapers/tree/main/unsorted&filename=wallhaven-g86vve_1920x1080.png)
-
-### z-w-gu-9
-
-![z-w-gu-9](unsorted/z-w-gu-9.jpg)
-
-[Download](https://download-directory.github.io/?url=https://github.com/mozartsempiano/wallpapers/tree/main/unsorted&filename=z-w-gu-9.jpg)
-
-[Browse](../unsorted/README.md)
 
 ## Sources
 
