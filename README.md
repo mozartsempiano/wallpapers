@@ -11,50 +11,50 @@ This is a personal collection of wallpapers organized by categories for easy acc
 Random wallpapers from each category are displayed below. The selection changes automatically to show different items from the collection.
 ## lain
 
-![car ride wallpaper](lain/car ride wallpaper.png)
-![leaving - wallpaper](lain/leaving - wallpaper.png)
+![remorse wallpaper](lain/lain/remorse wallpaper.png)
+![ring_wpp](lain/lain/ring_wpp.png)
 [Browse](lain/README.md)
 
 ## punpun
 
-![aiko](punpun/aiko.jpg)
-![punpun](punpun/punpun.jpg)
+![aiko](punpun/punpun/aiko.jpg)
+![punpun](punpun/punpun/punpun.jpg)
 [Browse](punpun/README.md)
 
 ## flcl
 
-![1600x900-1903768-flcl__3](flcl/1600x900-1903768-flcl__3.jpg)
-![834420](flcl/834420.png)
+![18587_flcl](flcl/flcl/18587_flcl.jpg)
+![834420](flcl/flcl/834420.png)
 [Browse](flcl/README.md)
 
 ## ghibli
 
-![wallhaven-kx1kxd](ghibli/wallhaven-kx1kxd.jpg)
-![68](ghibli/68.png)
+![thumb-1920-692345](ghibli/ghibli/thumb-1920-692345.jpg)
+![661701](ghibli/ghibli/661701.jpg)
 [Browse](ghibli/README.md)
 
 ## cyberpunk
 
-![wallhaven-yx7jdk](cyberpunk/wallhaven-yx7jdk.png)
-![wallhaven-x6d5md_1920x1080](cyberpunk/wallhaven-x6d5md_1920x1080.png)
+![rebecca-cyberpunk-edgerunners-series-hd-wallpaper-uhdpaper.com-636@1@i](cyberpunk/cyberpunk/rebecca-cyberpunk-edgerunners-series-hd-wallpaper-uhdpaper.com-636@1@i.jpg)
+![wallhaven-d662dm_1920x1080](cyberpunk/cyberpunk/wallhaven-d662dm_1920x1080.png)
 [Browse](cyberpunk/README.md)
 
 ## evangelion
 
-![748657](evangelion/748657.jpg)
-![849213](evangelion/849213.png)
+![849213](evangelion/evangelion/849213.png)
+![616750](evangelion/evangelion/616750.jpg)
 [Browse](evangelion/README.md)
 
 ## unsorted
 
-![563119](unsorted/563119.jpg)
-![613359](unsorted/613359.jpg)
+![20576_gorillaz](unsorted/unsorted/20576_gorillaz.jpg)
+![z-w-gu-9](unsorted/unsorted/z-w-gu-9.jpg)
 [Browse](unsorted/README.md)
 
 ## sonic
 
-![wallhaven-o3oog5](sonic/wallhaven-o3oog5.jpg)
-![Sonic Chronicles](sonic/Sonic Chronicles.psd)
+![GMbzwuca0AAyRen](sonic/sonic/GMbzwuca0AAyRen.jpg)
+![wallhaven-gpe5jd](sonic/sonic/wallhaven-gpe5jd.jpg)
 [Browse](sonic/README.md)
 
 ## Sources
