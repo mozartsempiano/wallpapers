@@ -11,115 +11,51 @@ This is a personal collection of wallpapers organized by categories for easy acc
 Random wallpapers from each category are displayed below. The selection changes automatically to show different items from the collection.
 ## lain
 
-### fog_of_doubt_wpp
-
-![fog_of_doubt_wpp](lain/fog_of_doubt_wpp.png)
-
-[Browse](https://github.com/mozartsempiano/wallpapers/tree/main/lain)
-### interest - wallpaper
-
-![interest - wallpaper](lain/interest - wallpaper.png)
-
-[Browse](https://github.com/mozartsempiano/wallpapers/tree/main/lain)
-[Browse](../lain/README.md)
+![car ride wallpaper](lain/car ride wallpaper.png)
+![leaving - wallpaper](lain/leaving - wallpaper.png)
+[Browse](lain/README.md)
 
 ## punpun
 
-### ol2oWf7
-
-![ol2oWf7](punpun/ol2oWf7.jpg)
-
-[Browse](https://github.com/mozartsempiano/wallpapers/tree/main/punpun)
-### punpun
-
+![aiko](punpun/aiko.jpg)
 ![punpun](punpun/punpun.jpg)
-
-[Browse](https://github.com/mozartsempiano/wallpapers/tree/main/punpun)
-[Browse](../punpun/README.md)
+[Browse](punpun/README.md)
 
 ## flcl
 
-### wallhaven-v9devp
-
-![wallhaven-v9devp](flcl/wallhaven-v9devp.png)
-
-[Browse](https://github.com/mozartsempiano/wallpapers/tree/main/flcl)
-### 834420
-
+![1600x900-1903768-flcl__3](flcl/1600x900-1903768-flcl__3.jpg)
 ![834420](flcl/834420.png)
-
-[Browse](https://github.com/mozartsempiano/wallpapers/tree/main/flcl)
-[Browse](../flcl/README.md)
+[Browse](flcl/README.md)
 
 ## ghibli
 
-### 661701
-
-![661701](ghibli/661701.jpg)
-
-[Browse](https://github.com/mozartsempiano/wallpapers/tree/main/ghibli)
-### 00
-
-![00](ghibli/00.png)
-
-[Browse](https://github.com/mozartsempiano/wallpapers/tree/main/ghibli)
-[Browse](../ghibli/README.md)
+![wallhaven-kx1kxd](ghibli/wallhaven-kx1kxd.jpg)
+![68](ghibli/68.png)
+[Browse](ghibli/README.md)
 
 ## cyberpunk
 
-### wallhaven-g73eqq_1920x1080
-
-![wallhaven-g73eqq_1920x1080](cyberpunk/wallhaven-g73eqq_1920x1080.png)
-
-[Browse](https://github.com/mozartsempiano/wallpapers/tree/main/cyberpunk)
-### wallhaven-qz99wr
-
-![wallhaven-qz99wr](cyberpunk/wallhaven-qz99wr.jpg)
-
-[Browse](https://github.com/mozartsempiano/wallpapers/tree/main/cyberpunk)
-[Browse](../cyberpunk/README.md)
+![wallhaven-yx7jdk](cyberpunk/wallhaven-yx7jdk.png)
+![wallhaven-x6d5md_1920x1080](cyberpunk/wallhaven-x6d5md_1920x1080.png)
+[Browse](cyberpunk/README.md)
 
 ## evangelion
 
-### 288200
-
-![288200](evangelion/288200.jpg)
-
-[Browse](https://github.com/mozartsempiano/wallpapers/tree/main/evangelion)
-### 19377_neon_genesis_evangelion
-
-![19377_neon_genesis_evangelion](evangelion/19377_neon_genesis_evangelion.jpg)
-
-[Browse](https://github.com/mozartsempiano/wallpapers/tree/main/evangelion)
-[Browse](../evangelion/README.md)
+![748657](evangelion/748657.jpg)
+![849213](evangelion/849213.png)
+[Browse](evangelion/README.md)
 
 ## unsorted
 
-### 127710
-
-![127710](unsorted/127710.jpg)
-
-[Browse](https://github.com/mozartsempiano/wallpapers/tree/main/unsorted)
-### 590245
-
-![590245](unsorted/590245.jpg)
-
-[Browse](https://github.com/mozartsempiano/wallpapers/tree/main/unsorted)
-[Browse](../unsorted/README.md)
+![563119](unsorted/563119.jpg)
+![613359](unsorted/613359.jpg)
+[Browse](unsorted/README.md)
 
 ## sonic
 
-### Sonic Chronicles Blue
-
-![Sonic Chronicles Blue](sonic/Sonic Chronicles Blue.png)
-
-[Browse](https://github.com/mozartsempiano/wallpapers/tree/main/sonic)
-### Sonic Chronicles Black
-
-![Sonic Chronicles Black](sonic/Sonic Chronicles Black.png)
-
-[Browse](https://github.com/mozartsempiano/wallpapers/tree/main/sonic)
-[Browse](../sonic/README.md)
+![wallhaven-o3oog5](sonic/wallhaven-o3oog5.jpg)
+![Sonic Chronicles](sonic/Sonic Chronicles.psd)
+[Browse](sonic/README.md)
 
 ## Sources
 
