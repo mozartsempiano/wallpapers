@@ -101,8 +101,7 @@ def handle_body(_, string: str, config: dict[str, str]) -> str:
             merged["random"] = str(picture)
             merged["random_stem"] = picture.stem
             results.append(string.format(**merged))
-        if config["browse"].casefold() == "True".casefold():
-            results.append(f"[Browse](../{category}/README.md){spacing}")
+        results.append(f"[Browse]({category}/README.md){spacing}")
     return spacing.join(results)
 
 

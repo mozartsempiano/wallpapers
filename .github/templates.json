@@ -16,13 +16,7 @@
 		"Random wallpapers from each category are displayed below. The selection changes automatically to show different items from the collection."
 	],
 
-	"body.category.md": [
-		"### {random_stem}",
-		"",
-		"![{random_stem}]({category}/{random})",
-		"",
-		"[Browse](https://github.com/mozartsempiano/wallpapers/tree/main/{category})"
-	],
+	"body.category.md": ["![{random_stem}]({category}/{random})"],
 
 	"sources.md": [
 		"## Sources",
