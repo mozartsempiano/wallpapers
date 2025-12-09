@@ -21,7 +21,7 @@
 		"",
 		"![{random_stem}]({category}/{random})",
 		"",
-		"[Download]({download}/?url=https://github.com/mozartsempiano/wallpapers/tree/main/{category}&filename={random})"
+		"[Browse](https://github.com/mozartsempiano/wallpapers/tree/main/{category})"
 	],
 
 	"sources.md": [
