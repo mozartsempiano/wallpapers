@@ -1,1 +1,72 @@
+<<<<<<< HEAD
 nsfw/
+=======
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# VSCode
+.vscode/
+.history/
+
+# Logs
+*.log
+
+# Env
+.env
+.env.*
+
+# Build
+/dist/
+/build/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Git
+.git/
+.gitmodules
+.gitconfig
+
+# Others
+*.swp
+*.swo
+*.bak
+*.tmp
+*.temp
+*.orig
+
+# Images cache
+*.psd
+*.xcf
+*.ai
+*.sketch
+
+# Mac
+.AppleDouble
+.LSOverride
+
+# Windows
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Linux
+*~
+>>>>>>> ff8cf3e3e575101e52715b205358fd931d62bf16
