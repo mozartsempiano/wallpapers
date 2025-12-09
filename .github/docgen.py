@@ -18,8 +18,13 @@ def get_config(config_path: Path = Path("./.github/config.ini")) -> dict[str, st
 
 def categorical_wallpapers(exclude: str | list[str] = []) -> dict[str, list[Path]]:
     exclude = exclude.split(":") if type(exclude) is str else exclude
+    valid_extensions = {'.jpg', '.jpeg', '.png'}
+    
     return {
-        str(category): [Path(picture) for picture in listdir(category) if picture != "README.md"]
+        str(category): [
+            Path(picture) for picture in listdir(category) 
+            if picture != "README.md" and Path(picture).suffix.lower() in valid_extensions
+        ]
         for category in listdir(".")
         if not category.startswith(".") and not isfile(category) and category not in exclude
     }

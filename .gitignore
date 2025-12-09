@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-nsfw/
-=======
 # Node
 node_modules/
 npm-debug.log
@@ -69,4 +66,7 @@ $RECYCLE.BIN/
 
 # Linux
 *~
->>>>>>> ff8cf3e3e575101e52715b205358fd931d62bf16
+
+# Others
+
+nsfw/
