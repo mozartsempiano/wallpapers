@@ -7,6 +7,7 @@ from os import listdir
 from os.path import isfile
 from pathlib import Path
 from random import shuffle
+import subprocess
 from typing import Callable
 
 
@@ -46,9 +47,21 @@ def rename_files_with_spaces(exclude: str | list[str] = []) -> None:
                 old_path = Path(category) / filename
                 new_path = Path(category) / new_filename
                 
-                old_path.rename(new_path)
-                print(f"Renamed: {category}/{filename} -> {new_filename}")
-                renamed_count += 1
+                # Use git mv to handle case-sensitive renames properly
+                try:
+                    subprocess.run(
+                        ["git", "mv", "-f", str(old_path), str(new_path)],
+                        check=True,
+                        capture_output=True,
+                        text=True
+                    )
+                    print(f"Renamed: {category}/{filename} -> {new_filename}")
+                    renamed_count += 1
+                except subprocess.CalledProcessError:
+                    # If git mv fails (file not tracked), use regular rename
+                    old_path.rename(new_path)
+                    print(f"Renamed (non-git): {category}/{filename} -> {new_filename}")
+                    renamed_count += 1
     
     if renamed_count > 0:
         print(f"\nTotal files renamed: {renamed_count}")
