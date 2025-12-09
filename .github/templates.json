@@ -32,11 +32,7 @@
 		"All wallpapers belong to their respective creators and owners. If you find an image in this repository that is yours and you want it remove, please contact me."
 	],
 
-	"category.md": [
-		"![{filename}]({filepath})",
-		"",
-		"[Download]({download}/?url=https://github.com/mozartsempiano/wallpapers/tree/main/{category}&filename={filepath})"
-	],
+	"category.md": ["![{filename}]({filepath})"],
 
 	"category.header.md": [
 		"# {category}",
