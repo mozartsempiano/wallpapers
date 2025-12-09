@@ -11,50 +11,50 @@ This is a personal collection of wallpapers organized by categories for easy acc
 Random wallpapers from each category are displayed below. The selection changes automatically to show different items from the collection.
 ## lain
 
-![remorse wallpaper](lain/lain/remorse wallpaper.png)
-![ring_wpp](lain/lain/ring_wpp.png)
+![exeimg - wallpaper](lain/lain/exeimg - wallpaper.png)
+![Entropy_Extractor_WPP](lain/lain/Entropy_Extractor_WPP.png)
 [Browse](lain/README.md)
 
 ## punpun
 
-![aiko](punpun/punpun/aiko.jpg)
+![ol2oWf7](punpun/punpun/ol2oWf7.jpg)
 ![punpun](punpun/punpun/punpun.jpg)
 [Browse](punpun/README.md)
 
 ## flcl
 
 ![18587_flcl](flcl/flcl/18587_flcl.jpg)
-![834420](flcl/flcl/834420.png)
+![wallhaven-v9devp](flcl/flcl/wallhaven-v9devp.png)
 [Browse](flcl/README.md)
 
 ## ghibli
 
-![thumb-1920-692345](ghibli/ghibli/thumb-1920-692345.jpg)
-![661701](ghibli/ghibli/661701.jpg)
+![81999](ghibli/ghibli/81999.jpg)
+![661714](ghibli/ghibli/661714.jpg)
 [Browse](ghibli/README.md)
 
 ## cyberpunk
 
-![rebecca-cyberpunk-edgerunners-series-hd-wallpaper-uhdpaper.com-636@1@i](cyberpunk/cyberpunk/rebecca-cyberpunk-edgerunners-series-hd-wallpaper-uhdpaper.com-636@1@i.jpg)
-![wallhaven-d662dm_1920x1080](cyberpunk/cyberpunk/wallhaven-d662dm_1920x1080.png)
+![wallhaven-g73eqq_1920x1080](cyberpunk/cyberpunk/wallhaven-g73eqq_1920x1080.png)
+![lucy-cyberpunk-edgerunners-art-hd-wallpaper-uhdpaper.com-590@1@i](cyberpunk/cyberpunk/lucy-cyberpunk-edgerunners-art-hd-wallpaper-uhdpaper.com-590@1@i.jpg)
 [Browse](cyberpunk/README.md)
 
 ## evangelion
 
 ![849213](evangelion/evangelion/849213.png)
-![616750](evangelion/evangelion/616750.jpg)
+![-tue3dBwTOTxvDG8o5X5iXWhlgT4nuQE6XJ31Jr3udQ](evangelion/evangelion/-tue3dBwTOTxvDG8o5X5iXWhlgT4nuQE6XJ31Jr3udQ.jpg)
 [Browse](evangelion/README.md)
 
 ## unsorted
 
-![20576_gorillaz](unsorted/unsorted/20576_gorillaz.jpg)
-![z-w-gu-9](unsorted/unsorted/z-w-gu-9.jpg)
+![898de28100e976b9501442feeba5d21b](unsorted/unsorted/898de28100e976b9501442feeba5d21b.jpg)
+![space-out-girl-top-hd-wallpapers-anime-space-girl-wallpaper-hd-for-android-download-desktop-sites-1920x1080-wallpapers-iphone-boy-cute](unsorted/unsorted/space-out-girl-top-hd-wallpapers-anime-space-girl-wallpaper-hd-for-android-download-desktop-sites-1920x1080-wallpapers-iphone-boy-cute.jpg)
 [Browse](unsorted/README.md)
 
 ## sonic
 
-![GMbzwuca0AAyRen](sonic/sonic/GMbzwuca0AAyRen.jpg)
-![wallhaven-gpe5jd](sonic/sonic/wallhaven-gpe5jd.jpg)
+![Sonic Chronicles Blue](sonic/sonic/Sonic Chronicles Blue.png)
+![wallhaven-z8kkly_1920x1080](sonic/sonic/wallhaven-z8kkly_1920x1080.png)
 [Browse](sonic/README.md)
 
 ## Sources
