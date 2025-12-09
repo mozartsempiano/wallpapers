@@ -11,65 +11,65 @@ This is a personal collection of wallpapers organized by categories for easy acc
 Random wallpapers from each category are displayed below. The selection changes automatically to show different items from the collection.
 ## lain
 
-![entropy_extractor_wpp](lain/entropy_extractor_wpp.png)
-
 ![wallhaven-1jl6gw](lain/wallhaven-1jl6gw.png)
+
+![hell_prospect-wpp](lain/hell_prospect-wpp.png)
 
 [Browse](lain/README.md)
 
 ## punpun
 
-![punpun](punpun/punpun.jpg)
-
 ![ol2owf7](punpun/ol2owf7.jpg)
+
+![aiko](punpun/aiko.jpg)
 
 [Browse](punpun/README.md)
 
 ## flcl
 
-![256830](flcl/256830.png)
+![wallhaven-v9devp](flcl/wallhaven-v9devp.png)
 
-![18587_flcl](flcl/18587_flcl.jpg)
+![256830](flcl/256830.png)
 
 [Browse](flcl/README.md)
 
 ## ghibli
 
-![115](ghibli/115.png)
+![147](ghibli/147.png)
 
-![68](ghibli/68.png)
+![wallhaven-yqqw8k](ghibli/wallhaven-yqqw8k.png)
 
 [Browse](ghibli/README.md)
 
 ## cyberpunk
 
-![lucy-cyberpunk-edgerunners-art-hd-wallpaper-uhdpaper.com-590@1@i](cyberpunk/lucy-cyberpunk-edgerunners-art-hd-wallpaper-uhdpaper.com-590@1@i.jpg)
+![wallhaven-yx7jdk](cyberpunk/wallhaven-yx7jdk.png)
 
-![wallhaven-g73eqq_1920x1080](cyberpunk/wallhaven-g73eqq_1920x1080.png)
+![wallhaven-d662dm_1920x1080](cyberpunk/wallhaven-d662dm_1920x1080.png)
 
 [Browse](cyberpunk/README.md)
 
 ## evangelion
 
-![616750](evangelion/616750.jpg)
+![288200](evangelion/288200.jpg)
 
-![2f6e557bfc02607f0dd7aad3a7bacb9c](evangelion/2f6e557bfc02607f0dd7aad3a7bacb9c.jpg)
+![wallhaven-eoe9lo](evangelion/wallhaven-eoe9lo.jpg)
 
 [Browse](evangelion/README.md)
 
 ## unsorted
 
-![145429](unsorted/145429.jpg)
+![wallhaven-lmmo3r](unsorted/wallhaven-lmmo3r.jpg)
 
-![space-out-girl-top-hd-wallpapers-anime-space-girl-wallpaper-hd-for-android-download-desktop-sites-1920x1080-wallpapers-iphone-boy-cute](unsorted/space-out-girl-top-hd-wallpapers-anime-space-girl-wallpaper-hd-for-android-download-desktop-sites-1920x1080-wallpapers-iphone-boy-cute.jpg)
+![635542](unsorted/635542.jpg)
 
 [Browse](unsorted/README.md)
 
 ## sonic
 
-![sonic_chronicles_black](sonic/sonic_chronicles_black.png)
+![sonic_chronicles_white](sonic/sonic_chronicles_white.png)
 
-![sonic_chronicles_blue](sonic/sonic_chronicles_blue.png)
+![sonic_chronicles_black](sonic/sonic_chronicles_black.png)
 
 [Browse](sonic/README.md)
 
