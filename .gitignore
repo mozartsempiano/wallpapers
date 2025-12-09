@@ -47,6 +47,10 @@ Desktop.ini
 *.temp
 *.orig
 
+# Generated documentation
+README.md
+*/README.md
+
 # Images cache
 *.psd
 *.xcf
