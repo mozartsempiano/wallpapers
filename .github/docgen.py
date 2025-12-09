@@ -22,7 +22,7 @@ def categorical_wallpapers(exclude: str | list[str] = []) -> dict[str, list[Path
     
     return {
         str(category): [
-            Path(picture) for picture in listdir(category) 
+            Path(category) / picture for picture in listdir(category) 
             if picture != "README.md" and Path(picture).suffix.lower() in valid_extensions
         ]
         for category in listdir(".")
