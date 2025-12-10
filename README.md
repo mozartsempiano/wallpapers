@@ -11,15 +11,15 @@ This is a personal collection of wallpapers organized by categories for easy acc
 Random wallpapers from each category are displayed below. The selection changes automatically to show different items from the collection.
 ## lain
 
-![phantom](lain/phantom.png)
+![remorse_wallpaper](lain/remorse_wallpaper.png)
 
-![hell_prospect-wpp](lain/hell_prospect-wpp.png)
+![848404](lain/848404.jpg)
 
 [Browse](lain/README.md)
 
 ## punpun
 
-![aiko](punpun/aiko.jpg)
+![punpun](punpun/punpun.jpg)
 
 ![ol2owf7](punpun/ol2owf7.jpg)
 
@@ -27,23 +27,39 @@ Random wallpapers from each category are displayed below. The selection changes 
 
 ## flcl
 
-![256830](flcl/256830.png)
+![wallhaven-v9devp](flcl/wallhaven-v9devp.png)
 
-![18587_flcl](flcl/18587_flcl.jpg)
+![1600x900-1903768-flcl__3](flcl/1600x900-1903768-flcl__3.jpg)
 
 [Browse](flcl/README.md)
 
+## photography
+
+![wallhaven-8ok562](photography/wallhaven-8ok562.jpg)
+
+![wallhaven-961oo8](photography/wallhaven-961oo8.jpg)
+
+[Browse](photography/README.md)
+
 ## ghibli
 
-![thumb-1920-692345](ghibli/thumb-1920-692345.jpg)
+![661718](ghibli/661718.jpg)
 
 ![68](ghibli/68.png)
 
 [Browse](ghibli/README.md)
 
+## monogatari
+
+![653548](monogatari/653548.jpg)
+
+![wallhaven-z8vq2g_1920x1080](monogatari/wallhaven-z8vq2g_1920x1080.png)
+
+[Browse](monogatari/README.md)
+
 ## cyberpunk
 
-![wallhaven-d662dm_1920x1080](cyberpunk/wallhaven-d662dm_1920x1080.png)
+![wallhaven-x6d5md_1920x1080](cyberpunk/wallhaven-x6d5md_1920x1080.png)
 
 ![wallhaven-yx7jdk](cyberpunk/wallhaven-yx7jdk.png)
 
@@ -51,27 +67,35 @@ Random wallpapers from each category are displayed below. The selection changes 
 
 ## evangelion
 
-![wallhaven-72932e](evangelion/wallhaven-72932e.jpg)
+![wallhaven-xe68gv](evangelion/wallhaven-xe68gv.png)
 
-![748657](evangelion/748657.jpg)
+![19377_neon_genesis_evangelion](evangelion/19377_neon_genesis_evangelion.jpg)
 
 [Browse](evangelion/README.md)
 
 ## unsorted
 
-![thumb-1920-552807](unsorted/thumb-1920-552807.jpg)
+![wallhaven-x6w3rv](unsorted/wallhaven-x6w3rv.png)
 
-![wallhaven-j8jk3y](unsorted/wallhaven-j8jk3y.png)
+![wallhaven-0jw2xq](unsorted/wallhaven-0jw2xq.png)
 
 [Browse](unsorted/README.md)
 
 ## sonic
 
-![sonic_chronicles_blue](sonic/sonic_chronicles_blue.png)
+![wallhaven-8o1vj1](sonic/wallhaven-8o1vj1.jpg)
 
-![wallhaven-o3oog5](sonic/wallhaven-o3oog5.jpg)
+![sonic_chronicles_white](sonic/sonic_chronicles_white.png)
 
 [Browse](sonic/README.md)
+
+## space
+
+![193](space/193.jpg)
+
+![wallhaven-l8jl1y](space/wallhaven-l8jl1y.jpg)
+
+[Browse](space/README.md)
 
 ## Sources
 
