@@ -11,9 +11,9 @@ This is a personal collection of wallpapers organized by categories for easy acc
 Random wallpapers from each category are displayed below. The selection changes automatically to show different items from the collection.
 ## lain
 
-![remorse_wallpaper](lain/remorse_wallpaper.png)
+![fog_of_doubt_wpp](lain/fog_of_doubt_wpp.png)
 
-![848404](lain/848404.jpg)
+![hell_prospect-wpp](lain/hell_prospect-wpp.png)
 
 [Browse](lain/README.md)
 
@@ -21,63 +21,63 @@ Random wallpapers from each category are displayed below. The selection changes 
 
 ![punpun](punpun/punpun.jpg)
 
-![ol2owf7](punpun/ol2owf7.jpg)
+![aiko](punpun/aiko.jpg)
 
 [Browse](punpun/README.md)
 
 ## flcl
 
-![wallhaven-v9devp](flcl/wallhaven-v9devp.png)
-
 ![1600x900-1903768-flcl__3](flcl/1600x900-1903768-flcl__3.jpg)
+
+![wallhaven-v9devp](flcl/wallhaven-v9devp.png)
 
 [Browse](flcl/README.md)
 
 ## photography
 
-![wallhaven-8ok562](photography/wallhaven-8ok562.jpg)
+![wallhaven-lm56op](photography/wallhaven-lm56op.jpg)
 
-![wallhaven-961oo8](photography/wallhaven-961oo8.jpg)
+![wallhaven-7p51ly](photography/wallhaven-7p51ly.jpg)
 
 [Browse](photography/README.md)
 
 ## ghibli
 
-![661718](ghibli/661718.jpg)
+![203996](ghibli/203996.jpg)
 
-![68](ghibli/68.png)
+![115](ghibli/115.png)
 
 [Browse](ghibli/README.md)
 
 ## monogatari
 
-![653548](monogatari/653548.jpg)
+![wallhaven-nk1mvd_1920x1080](monogatari/wallhaven-nk1mvd_1920x1080.png)
 
-![wallhaven-z8vq2g_1920x1080](monogatari/wallhaven-z8vq2g_1920x1080.png)
+![898de28100e976b9501442feeba5d21b](monogatari/898de28100e976b9501442feeba5d21b.jpg)
 
 [Browse](monogatari/README.md)
 
 ## cyberpunk
 
-![wallhaven-x6d5md_1920x1080](cyberpunk/wallhaven-x6d5md_1920x1080.png)
+![rebecca-cyberpunk-edgerunners-series-hd-wallpaper-uhdpaper.com-636@1@i](cyberpunk/rebecca-cyberpunk-edgerunners-series-hd-wallpaper-uhdpaper.com-636@1@i.jpg)
 
-![wallhaven-yx7jdk](cyberpunk/wallhaven-yx7jdk.png)
+![wallhaven-qz99wr](cyberpunk/wallhaven-qz99wr.jpg)
 
 [Browse](cyberpunk/README.md)
 
 ## evangelion
 
-![wallhaven-xe68gv](evangelion/wallhaven-xe68gv.png)
-
 ![19377_neon_genesis_evangelion](evangelion/19377_neon_genesis_evangelion.jpg)
+
+![wallhaven-xe68gv](evangelion/wallhaven-xe68gv.png)
 
 [Browse](evangelion/README.md)
 
 ## unsorted
 
-![wallhaven-x6w3rv](unsorted/wallhaven-x6w3rv.png)
+![598232](unsorted/598232.jpg)
 
-![wallhaven-0jw2xq](unsorted/wallhaven-0jw2xq.png)
+![wallhaven-lmpg3y_1920x1080](unsorted/wallhaven-lmpg3y_1920x1080.png)
 
 [Browse](unsorted/README.md)
 
