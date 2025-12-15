@@ -34,20 +34,15 @@ def rename_files_with_spaces(exclude: str | list[str] = []) -> None:
             if Path(filename).suffix.lower() not in valid_extensions:
                 continue
             
-            # Build normalized filename
             new_filename = filename
-            # First normalize " - " and "_-_" to "-"
             new_filename = new_filename.replace(" - ", "-").replace("_-_", "-")
-            # Then replace remaining spaces with underscores
             new_filename = new_filename.replace(" ", "_")
-            # Convert to lowercase
             new_filename = new_filename.lower()
             
             if new_filename != filename:
                 old_path = Path(category) / filename
                 new_path = Path(category) / new_filename
                 
-                # Use git mv to handle case-sensitive renames properly
                 try:
                     subprocess.run(
                         ["git", "mv", "-f", str(old_path), str(new_path)],
@@ -58,7 +53,6 @@ def rename_files_with_spaces(exclude: str | list[str] = []) -> None:
                     print(f"Renamed: {category}/{filename} -> {new_filename}")
                     renamed_count += 1
                 except subprocess.CalledProcessError:
-                    # If git mv fails (file not tracked), use regular rename
                     old_path.rename(new_path)
                     print(f"Renamed (non-git): {category}/{filename} -> {new_filename}")
                     renamed_count += 1
@@ -67,6 +61,50 @@ def rename_files_with_spaces(exclude: str | list[str] = []) -> None:
         print(f"\nTotal files renamed: {renamed_count}")
     else:
         print("No files needed renaming.")
+
+
+def move_unsorted_images() -> None:
+    """Move any loose image files from the root directory to the unsorted folder."""
+    valid_extensions = {'.jpg', '.jpeg', '.png'}
+    moved_count = 0
+    
+    unsorted_path = Path("unsorted")
+    unsorted_path.mkdir(exist_ok=True)
+    
+    for item in Path(".").iterdir():
+        if item.is_dir() or item.suffix.lower() not in valid_extensions:
+            continue
+            
+        if item.name.startswith('.'):
+            continue
+            
+        destination = unsorted_path / item.name
+        counter = 1
+        original_destination = destination
+        while destination.exists():
+            stem = original_destination.stem
+            suffix = original_destination.suffix
+            destination = unsorted_path / f"{stem}_{counter}{suffix}"
+            counter += 1
+        
+        try:
+            subprocess.run(
+                ["git", "mv", "-f", str(item), str(destination)],
+                check=True,
+                capture_output=True,
+                text=True
+            )
+            print(f"Moved (git): {item.name} -> unsorted/{destination.name}")
+            moved_count += 1
+        except subprocess.CalledProcessError:
+            item.rename(destination)
+            print(f"Moved: {item.name} -> unsorted/{destination.name}")
+            moved_count += 1
+    
+    if moved_count > 0:
+        print(f"\nTotal images moved to unsorted: {moved_count}")
+    else:
+        print("No loose images found in root directory.")
 
 
 def categorical_wallpapers(exclude: str | list[str] = []) -> dict[str, list[Path]]:
@@ -184,7 +222,10 @@ if __name__ == "__main__":
     CONFIG = get_config()
     CONFIG["date"] = datetime.now().strftime("%Y-%m-%d")
     
-    # Rename files with spaces to underscores before generating docs
+    print("Checking for loose images in root directory...")
+    move_unsorted_images()
+    print()
+    
     print("Checking for files with spaces in names...")
     rename_files_with_spaces(CONFIG["exclude"])
     print()
