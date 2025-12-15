@@ -159,7 +159,7 @@ def handle_body(_, string: str, config: dict[str, str]) -> str:
             merged["random"] = (Path(category) / picture).as_posix()
             merged["random_stem"] = picture.stem
             results.append(string.format(**merged))
-        results.append(f"[Browse]({category}/README.md){spacing}")
+        results.append(f"[Browse 🡪]({category}/README.md){spacing}")
     return spacing.join(results)
 
 
