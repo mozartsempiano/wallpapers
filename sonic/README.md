@@ -8,6 +8,7 @@
 ![wallhaven-z8kkly_1920x1080](wallhaven-z8kkly_1920x1080.png)
 ![wallhaven-o3oog5](wallhaven-o3oog5.jpg)
 ![wallhaven-k96m6q](wallhaven-k96m6q.jpg)
+![wallhaven-z8kkly](wallhaven-z8kkly.jpg)
 ![wallhaven-8o1vj1](wallhaven-8o1vj1.jpg)
 ![sonic_chronicles_white](sonic_chronicles_white.png)
 ![sonic_chronicles_black](sonic_chronicles_black.png)
